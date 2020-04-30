@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/about.jsx"],"names":[],"mappings":"2FAAA,6CAIe,4BACb,YAAC,IAAD,KACE","file":"component---src-pages-about-jsx-882da6e6c4798440ed4f.js","sourcesContent":["import React from \"react\"\n\nimport Layout from '../components/layout'\n\nexport default () => (\n  <Layout>\n    <p>This is all about me!</p>\n  </Layout>\n)"],"sourceRoot":""}

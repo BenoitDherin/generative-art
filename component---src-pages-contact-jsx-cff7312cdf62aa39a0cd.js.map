@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/contact.jsx"],"names":[],"mappings":"2FAAA,6CAIe,4BACb,YAAC,IAAD,KACE","file":"component---src-pages-contact-jsx-cff7312cdf62aa39a0cd.js","sourcesContent":["import React from \"react\"\n\nimport Layout from '../components/layout'\n\nexport default () => (\n  <Layout>\n    <p>Send us a message!</p>\n  </Layout>\n)"],"sourceRoot":""}
